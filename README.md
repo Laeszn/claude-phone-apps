@@ -1,4 +1,4 @@
-# Phone apps from Claude
+ # Phone apps from Claude
 
 Need a small app? A food tracker, a habit list, a gym log, a budget split for a trip?
 
